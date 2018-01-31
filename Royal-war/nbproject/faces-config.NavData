@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Scene Scope="Project" version="2">
+    <Scope Scope="Faces Configuration Only"/>
+    <Scope Scope="Project">
+        <Node id="admin/viewFileUploaded.jsp" x="900" y="450" zoom="true"/>
+        <Node id="admin/feedbackManager.jsp" x="650" y="300" zoom="true"/>
+        <Node id="templateAdmin/markitup/templates/preview.html" x="650" y="450" zoom="true"/>
+        <Node id="template/loginStudent.jsp" x="788" y="490" zoom="true"/>
+        <Node id="admin/registerSurveyForAssignment.jsp" x="900" y="150" zoom="true"/>
+        <Node id="admin/studentManager.jsp" x="900" y="600" zoom="true"/>
+        <Node id="template/templateUser.jsp" x="650" y="600" zoom="true"/>
+        <Node id="user/register.jsp" x="1400" y="150" zoom="true"/>
+        <Node id="admin/faqManager.jsp" x="1150" y="300" zoom="true"/>
+        <Node id="templateAdmin/login.jsp" x="400" y="300" zoom="true"/>
+        <Node id="admin/changePassword.jsp" x="650" y="750" zoom="true"/>
+        <Node id="admin/registerStudentForAssignment.jsp" x="1650" y="300" zoom="true"/>
+        <Node id="admin/accountManager.jsp" x="150" y="600" zoom="true"/>
+        <Node id="user/mark.jsp" x="400" y="150" zoom="true"/>
+        <Node id="admin/surveyStatistics.jsp" x="400" y="450" zoom="true"/>
+        <Node id="user/faq.jsp" x="1650" y="150" zoom="true"/>
+        <Node id="templateAdmin/templateAdmin.jsp" x="827" y="91" zoom="true"/>
+        <Node id="admin/courseManager.jsp" x="400" y="600" zoom="true"/>
+        <Node id="user/login.jsp" x="150" y="900" zoom="true"/>
+        <Node id="user/fileuploading.jsp" x="1900" y="150" zoom="true"/>
+        <Node id="admin/markManager.jsp" x="150" y="1050" zoom="true"/>
+        <Node id="admin/answerManager.jsp" x="1150" y="150" zoom="true"/>
+        <Node id="admin/semesterManager.jsp" x="400" y="900" zoom="true"/>
+        <Node id="user/home.jsp" x="1150" y="450" zoom="true"/>
+        <Node id="admin/questionManager.jsp" x="150" y="300" zoom="true"/>
+        <Node id="user/assignment.jsp" x="150" y="450" zoom="true"/>
+        <Node id="test.jsp" x="400" y="750" zoom="true"/>
+        <Node id="admin/batchManager.jsp" x="900" y="300" zoom="true"/>
+        <Node id="user/feedback.jsp" x="150" y="750" zoom="true"/>
+        <Node id="admin/assignmentManager.jsp" x="150" y="150" zoom="true"/>
+        <Node id="admin/subjectManager.jsp" x="1400" y="300" zoom="true"/>
+        <Node id="admin/home.jsp" x="650" y="150" zoom="true"/>
+    </Scope>
+    <Scope Scope="All Faces Configurations"/>
+</Scene>
